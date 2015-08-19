@@ -1,0 +1,10 @@
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\Selfie.csprojResolveAssemblyReference.cache
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\MainWindow.baml
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\MainWindow.g.cs
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\App.g.cs
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample_MarkupCompile.cache
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.g.resources
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.Properties.Resources.resources
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\Selfie.csproj.GenerateResource.Cache
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.exe
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.pdb

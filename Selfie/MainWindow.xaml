@@ -1,0 +1,50 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="BackgroundReplacementSample.MainWindow"
+        Title="Intel® RealSense™ Selfie App" Height="800" Width="1400" Closing="Window_Closing"  
+        Background="#FF293955" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        WindowState="Maximized" Margin="0,-50,0,0">
+
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+
+        <Label Foreground="White" Content="Selfie at Rashtrapati Bhawan" FontSize="40" FontFamily="Calibri" Margin="5,0,0,0" HorizontalAlignment="Center" Width="505.58" />
+        <StackPanel Orientation="Horizontal" Width="1300" Height="655">
+
+            <StackPanel Orientation="Vertical" Height="428">
+                <Button Height="140" Width="140" Click="btnOpenimg1_Click">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Height="140" Width="140" Source="1st.bmp"/>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button Height="140" Width="140" Click="btnOpenimg2_Click">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Height="140" Width="140" Source="2nd.bmp"/>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+                <Button Height="140" Width="140" Click="btnOpenimg3_Click">
+                    <Button.Template>
+                        <ControlTemplate>
+                            <Image Height="140" Width="140" Source="3rd.bmp"/>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </StackPanel>
+            <Image x:Name="imgBackdrop" Height="480" Width="640" Margin="10,10,0,10"/>
+            <StackPanel Margin="8,40,8,35.5" Height="532" HorizontalAlignment="Center" VerticalAlignment="Center" Width="376.023" CanVerticallyScroll="True">
+                <Label FontFamily="Calibri" Foreground="White" FontSize="26" Content="             How to Click Selfie"/>
+                <Label FontFamily="Calibri" Foreground="White" FontSize="22" Content="  Step 1: Choose a background from &#xA;                the options on your left"/>
+                <Label FontFamily="Calibri" Foreground="White" FontSize="22" Content="  Step 2: Position yourself infront&#xA;               of the 3D RealSense™ camera  &#xA;               and wait for it to map you." HorizontalContentAlignment="Stretch"/>
+                <Label FontFamily="Calibri" Foreground="White" FontSize="22" Content="  Step 3: Click on Capture."/>
+                <Button x:Name="btnCapture" Content="CAPTURE" Width="200" Click="btnCapture_Click" Margin="10" Height="50" FontSize="16"/>
+                <Label x:Name="timer" FontFamily="Segoe UI Light" Foreground="White" FontSize="32" Content=" " Height="54" HorizontalAlignment="Center"/>
+                <Label x:Name="thankyou" FontFamily="Segoe UI Light" Foreground="White" FontSize="16" Content=" " HorizontalAlignment="Center"/>
+            </StackPanel>
+        </StackPanel>
+
+    </StackPanel>
+</Window>

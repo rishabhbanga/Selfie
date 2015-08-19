@@ -1,0 +1,16 @@
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\bin\Release\BackgroundReplacementSample.exe.config
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\bin\Release\BackgroundReplacementSample.exe
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\bin\Release\BackgroundReplacementSample.pdb
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\bin\Release\libpxcclr.cs.dll
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\MainWindow.baml
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\MainWindow.g.cs
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\App.g.cs
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample_MarkupCompile.cache
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.g.resources
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.Properties.Resources.resources
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.csproj.GenerateResource.Cache
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.exe
+C:\Users\Rancho\Downloads\BackgroundReplacementSample\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.pdb
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\bin\Release\BackgroundReplacementSample.exe.config
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.exe
+E:\Intel Museum @ Rashtrapati Bhawan\RealSense\SelfieAtMueseum\SelfieAtMueseum\BackgroundReplacementSample\obj\Release\BackgroundReplacementSample.pdb
